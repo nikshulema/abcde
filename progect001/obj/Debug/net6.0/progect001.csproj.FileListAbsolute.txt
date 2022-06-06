@@ -1,0 +1,15 @@
+D:\учеба\First C#\progect001\bin\Debug\net6.0\progect001.exe
+D:\учеба\First C#\progect001\bin\Debug\net6.0\progect001.deps.json
+D:\учеба\First C#\progect001\bin\Debug\net6.0\progect001.runtimeconfig.json
+D:\учеба\First C#\progect001\bin\Debug\net6.0\progect001.dll
+D:\учеба\First C#\progect001\bin\Debug\net6.0\progect001.pdb
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.csproj.AssemblyReference.cache
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.AssemblyInfoInputs.cache
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.AssemblyInfo.cs
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.csproj.CoreCompileInputs.cache
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.dll
+D:\учеба\First C#\progect001\obj\Debug\net6.0\refint\progect001.dll
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.pdb
+D:\учеба\First C#\progect001\obj\Debug\net6.0\progect001.genruntimeconfig.cache
+D:\учеба\First C#\progect001\obj\Debug\net6.0\ref\progect001.dll
